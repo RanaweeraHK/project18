@@ -1,0 +1,3 @@
+D:/Downloads/Smart_Furnitures-main/Smart_Furnitures-main/smart-furniture-store/frontend/cmake-build-debug/CMakeFiles/frontend.dir
+D:/Downloads/Smart_Furnitures-main/Smart_Furnitures-main/smart-furniture-store/frontend/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Downloads/Smart_Furnitures-main/Smart_Furnitures-main/smart-furniture-store/frontend/cmake-build-debug/CMakeFiles/rebuild_cache.dir
